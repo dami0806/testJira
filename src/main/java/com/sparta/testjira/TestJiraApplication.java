@@ -10,7 +10,7 @@ public class TestJiraApplication {
         SpringApplication.run(TestJiraApplication.class, args);
         test();
         test1();
-
+        test2();
     }
 
     public static void test() {
