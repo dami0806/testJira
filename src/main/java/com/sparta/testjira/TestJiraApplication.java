@@ -17,7 +17,7 @@ public class TestJiraApplication {
         System.out.println("test");
     }
 
-    public static void test2() {
+    public static void test1() {
         System.out.println("test");
     }
 }
