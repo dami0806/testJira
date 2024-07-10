@@ -8,6 +8,16 @@ public class TestJiraApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestJiraApplication.class, args);
+        test();
+        test1();
+
     }
 
+    public static void test() {
+        System.out.println("test");
+    }
+
+    public static void test1() {
+        System.out.println("test");
+    }
 }
