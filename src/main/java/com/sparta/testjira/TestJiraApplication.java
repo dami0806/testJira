@@ -20,4 +20,8 @@ public class TestJiraApplication {
     public static void test1() {
         System.out.println("test");
     }
+    public static void test2() {
+        System.out.println("test");
+    }
+
 }
